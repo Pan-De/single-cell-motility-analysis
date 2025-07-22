@@ -4,7 +4,7 @@ This document contains instructions on how to access the data associated with th
 We developed a deep learning model that can classify cell motility state (migrating/idle state) from fluorescent microscopy images of single cells.
 
 * Cell Type: MDA-MB-231 cell line.
-* Cells were staied with Calcein AM and imaged inside [nanowell-in-microwell plates](https://www.imagecyte.bio/)
+* Cells were stained with Calcein AM and imaged inside [nanowell-in-microwell plates](https://www.imagecyte.bio/)
 * Class: Migrating cells (motility >5 µm/hour), Idle cells (motility <5 µm/hour)
 
 **Datasets for k-fold corss validation** <br>
