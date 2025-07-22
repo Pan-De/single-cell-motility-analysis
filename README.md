@@ -10,5 +10,5 @@ We developed a deep learning model that can classify cell motility state (migrat
 **Datasets for k-fold corss validation** <br>
 [Data Link](https://ubcca-my.sharepoint.com/:f:/r/personal/pandeng_student_ubc_ca/Documents/Project%20motility%20analysis/Dataset?csf=1&web=1&e=K3cdgr)
 
-![image]()
+
 <img width="3191" height="2368" alt="Fig 5" src="https://github.com/user-attachments/assets/5b99bb99-a707-469e-af7d-11219710b929" />
